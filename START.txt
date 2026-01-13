@@ -1,0 +1,21 @@
+BMW Bavaria Bratislava Website
+================================
+
+Installation:
+1. Open terminal/PowerShell in this folder
+2. Run: npm install
+3. Run: npm run dev
+4. Open: http://localhost:3000
+
+Production Build:
+npm run build
+
+The website includes:
+- Multi-language support (SK, EN, DE, HU)
+- Interactive chatbot
+- Responsive design
+- Contact forms
+- Featured models showcase
+- Services section
+- Testimonials
+- Location with map
